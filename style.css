@@ -1,0 +1,28 @@
+body{
+    margin: 0px 150px;
+    padding-left: 20px;
+    padding-top: 0px;
+    border: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+}
+th{
+    font-size: 17px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    background-color: orange;
+    text-align: left;
+    color: white;
+}
+td{
+    font-size: 15px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+table, th, td{
+     border: 1px dotted darkgray;
+     border-collapse: collapse;
+}
+li{
+    padding-bottom: 15px;
+}
